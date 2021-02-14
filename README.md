@@ -8,3 +8,6 @@ add something new
 test again
 
 Testing
+
+
+clone to local repository
